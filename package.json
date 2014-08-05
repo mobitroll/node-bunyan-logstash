@@ -1,0 +1,22 @@
+{
+  "name": "bunyan-logstash",
+  "version": "0.0.1",
+  "description": "A Bunyan serializer to save in a logstash expected format",
+  "author": "Morten Versvik <morten@versvik.com> (http://github.com/mortenv)",
+  "main": "bunyan-logstash.js",
+  "keywords": [
+    "logstash",
+    "bunyan"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobitroll/node-bunyan-logstash.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
