@@ -1,5 +1,5 @@
 {
-  "name": "bunyan-logstash",
+  "name": "bunyan-logstash-file",
   "version": "0.0.1",
   "description": "A Bunyan serializer to save in a logstash expected format",
   "author": "Morten Versvik <morten@versvik.com> (http://github.com/mortenv)",
@@ -14,6 +14,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "bunyan": "1.x.x"
   },
   "devDependencies": {
   },
